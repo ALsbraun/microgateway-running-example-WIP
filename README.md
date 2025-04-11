@@ -206,7 +206,7 @@ kubectl -n juice-shop delete ingress juice-shop
   * [System Architecture](https://docs.airlock.com/microgateway/latest/#data/1660804709650.html)
   * [Installation](https://docs.airlock.com/microgateway/latest/#data/1660804708713.html)
   * [Troubleshooting](https://docs.airlock.com/microgateway/latest/#data/1659430054787.html)
-  * [API Reference](https://docs.airlock.com/microgateway/latest/api/index.html)
+  * [API Reference](https://docs.airlock.com/microgateway/latest/index/api/crds/index.html)
 * [Release Repository](https://github.com/airlock/microgateway)
 * [Airlock Microgateway labs](https://play.instruqt.com/airlock/invite/hyi9fy4b4jzc?icp_referrer=github.com)
 
